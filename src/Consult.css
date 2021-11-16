@@ -1,0 +1,217 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fontawesome.com/v5.15/icons/tooth?style=solid);
+
+*body{
+  margin:0;
+}
+.Consult  {
+    height: 130px;
+    width: 99%;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 70px;
+    margin: 10px;
+    padding-top: 12px;
+    padding-left: 10;
+    padding-bottom: 2px;
+    font-weight: 189;
+    font-style: normal;
+    font-size: 90px;
+    -ms-flex-align: center;
+    margin:auto;
+    border-style: double;
+    border-style: solid;
+    border-color: #EDF6E5;
+     
+    background-color: #46B5D1;
+    
+    
+    color: #EDF6E5;
+    border-color: #46B5D1;
+border-radius: 5px;
+border-width: thick;
+}
+     body{
+    background-color: #a5d7e5;
+   margin:0;
+   overflow: hidden;
+ 
+     }
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+  margin-top: 2px;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid  #46B5D1;
+  border-right: none;
+  height: 40px;
+  border-radius: 5px 2px 2px 5px;
+  outline:#cc0000;
+  color: #9DBFAF;
+  font-size: 18px;
+  border-width: thick;
+  padding:10px;
+  
+}
+
+.searchTerm:focus{
+  color: #cc0000;
+}
+
+.searchButton {
+  width: 40px;
+  height: 70px;
+  border: 1px solid #46B5D1;
+  background: #46B5D1;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+ 
+.doctors{
+display: flex;
+flex-direction: row; 
+
+margin-left: 60px;
+margin-top: 89px;
+padding: 20px;
+
+position:relative;
+
+text-align:center;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold; 
+} 
+.box_2{
+display: flex;
+flex-direction: row; 
+margin-left: 60px;
+position:relative;
+padding: 20px;
+font-size: 30px;
+text-align:center;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold;
+  }
+  .box_3{
+  display: flex;
+  flex-direction: row; 
+  margin-bottom: 2px;
+  margin-left: 60px;
+  position:relative;
+  padding: 20px;
+  font-size: 30px;
+  text-align:center;
+  font-display:center;
+  font-family:Helvetica, Arial, sans-serif;
+  font-weight:bold;
+  
+  }
+ .one{
+width:250px;
+height: 60px;
+border-style: solid;
+margin-left: 10px;
+text-decoration: none;
+background-color: #eaeaea;
+color: #46B5D1;
+text-align: center;
+font-size: 25px;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold;
+padding-top:8px;
+padding-bottom:2px;
+padding-right: 15px;
+padding-left: 10px;
+border-style: ridge;
+border-radius: 10px;
+border-color:  #7eb1de;
+margin-right: 20px;
+border-style:solid;
+border-width:thick;
+ }
+  .two{
+width:250px;
+height:60px;
+border-style: solid;
+margin-left: 60px;
+text-decoration: none;
+background-color:   #eaeaea;
+color: #46B5D1;
+text-align: center;
+font-size: 25px;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold;
+padding-top: 8px;
+padding-bottom: 2px;
+padding-right: 15px;
+padding-left: 10px;
+border-style: ridge;
+border-radius: 10px;
+border-color: #7eb1de;
+margin-right: 20px;
+border-style:solid;
+    border-width:thick;
+
+  
+
+}
+.three{
+width:250px;
+height:60px;
+border-style: solid;
+margin-left: 60px;
+text-decoration: none;
+background-color:  #eaeaea;
+color: #46B5D1;
+text-align: center;
+font-size: 25px;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold;
+padding-top: 8px;
+padding-bottom: 2px;
+padding-right: 15px;
+padding-left: 10px;
+border-style: ridge;
+border-radius: 10px;
+border-color:  #7eb1de;
+margin-right: 20px;
+border-style:solid;
+    border-width:thick;
+} 
+.four{
+width:250px;
+height:60px;
+border-style: solid;
+margin-left: 60px;
+text-decoration: none;
+background-color: #eaeaea;
+color: #46B5D1;
+text-align: center;
+font-size: 25px;
+font-display:center;
+font-family:Helvetica, Arial, sans-serif;
+font-weight:bold;
+padding-top: 8px;
+padding-bottom: 2px;
+padding-right: 15px;
+padding-left: 10px;
+border-style: ridge;
+border-radius: 10px;
+border-color:  #7eb1de;
+margin-right: 20px;
+border-style:solid;
+    border-width:thick;
+}
+

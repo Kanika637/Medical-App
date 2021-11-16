@@ -1,0 +1,105 @@
+.emergency {
+    background-color: #ccf2f4;
+  }
+  /* .govt{
+      margin-right: 10px;
+      margin-left: 10px;
+  } */
+  
+  .emer_heading {
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+    border-radius: 30px black;
+    background-color: #ccf2f4;
+    margin: 0 500px;
+    max-width: 100%;
+    font-size: 26px;
+  
+    /* font-weight: 500px;
+    margin-left: 50%;
+    border-style: ridge;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin-right: 595px;
+    padding-left: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    text-shadow: 0 0 3px white, 0 0 5px black; */
+  }
+  
+  .table {
+    border: solid;
+    font-size: 50%;
+    text-align: center;
+    padding: 0 20px;
+    margin: 0 0 30px;
+    display: flex;
+    flex-direction: row;
+  }
+  .pri_heading,
+  .govt_heading {
+    font-weight: 300px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  /* .govt_heading {
+    font-weight: 300px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 3px black;
+  } */
+  /* .vertical {
+    border-left: 1px solid black;
+    height: 900px;
+    position: absolute;
+    left: 50%;
+    margin-top: 80px;
+  } */
+  .govt_container,
+  .pri_container {
+    border-style: ridge;
+    border-radius: 20px;
+    padding: 0 300px;
+    text-align: center;
+    /* margin-left:  52px; */
+    margin: 0 60px;
+    /* display: flex; */
+    flex-direction: row;
+    height: 100vh;
+    /* margin-right: 1px; */
+  }
+  /* .pri_container {
+    border-style: ridge;
+    border-radius: 10px;
+    padding-top: 100px;
+    padding-left: 400px;
+    text-align: right;
+    padding-right: 250px;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+  } */
+  /* .heading_outer_shadow {
+    box-shadow: var(--outer-shadow);
+    border-radius: 30px;
+  } */
+  
+  /* .call_emojii {
+    max-height: 10px;
+    width: 10%;
+    object-fit: contain;
+    margin-bottom: 50px;
+  } */
+  
+  .detail_button {
+    background-color: #51c4d3;
+    border-radius: 20px;
+    width: 90%;
+    height: 100%;
+    font-size: medium;
+  }
+  
